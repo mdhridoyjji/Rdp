@@ -1,4 +1,4 @@
-name: Hridoy-Rdp 
+name: Rdp 
 
 on:
   workflow_dispatch:
